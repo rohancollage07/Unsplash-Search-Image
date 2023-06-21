@@ -1,5 +1,5 @@
 # Unsplash-Search-Image
-Created a webpage using ReactJS to search for any categories of photos from using Unsplash API 
+Created a webpage to search for any categories of photos from using Unsplash API 
 Can also generate random pictures if clicked multiple times on search button.
 
 First : Created a structure HTML of what will be present in the final output
